@@ -1,4 +1,5 @@
 # 📊 DataMate – Your All-in-One AI Data Assistant 💡
+# this is created by roushan Kumar Pandey
 
 **DataMate** is a powerful, interactive data science assistant that enables users to analyze, visualize, model, and chat with datasets — all in one unified AI-powered platform.
 
